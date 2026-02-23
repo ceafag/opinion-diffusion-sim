@@ -47,3 +47,4 @@ curl -X POST http://localhost:4000/sim/run \
 ## Spec document
 
 - `docs/opinion-simulation-design.md`
+
